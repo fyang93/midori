@@ -75,7 +75,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.13.9",
-    "@tweenjs/tween.js": "^18.6.4"
+    "@tweenjs/tween.js": "^18.6.4",
+    "socket.io-client": "^4.7.5"
   },
   "peerDependencies": {
     "three": ">=0.132.2"

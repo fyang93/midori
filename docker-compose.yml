@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    volumes:
+      - ./docs/assets:/app/docs/assets:ro
+    ports:
+      - "50009:5000"

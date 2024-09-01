@@ -5,3 +5,4 @@ launch.json
 settings.json
 *LICENSE.txt
 *.map
+__pycache__/
